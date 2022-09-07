@@ -60,17 +60,24 @@ td {
 .goal-paragraph {
   font-weight: bold;
 }
-.rule-div{
-    display: inline-block;
-    width: 10%;
-    border-right: 1px solid black;
+.rule-div {
+  display: inline-block;
+  width: 10%;
+  border-right: 1px solid black;
 }
-.rule-desc-div{
-    padding-left: 30px;
-    display: inline-block;
-    width: 90%;
+.rule-desc-div {
+  padding-left: 30px;
+  display: inline-block;
+  width: 90%;
 }
-.p-0{
-    padding: 0 5px 0 5px;
-    margin: 0 5px 0 5px;
+.p-0 {
+  padding: 0 5px 0 5px;
+  margin: 0 5px 0 5px;
+}
+.footer {
+  background-color: rgb(218, 218, 218);
+  border-top: 2px solid black;
+}
+.copyright-text {
+  line-height: 50px;
 }
